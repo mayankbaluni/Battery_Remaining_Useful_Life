@@ -38,9 +38,3 @@ The CNN-LSTM model achieves much lower error compared to LSTM baselines:
 | LSTM            | 0.062 | 0.055 | 3.608    | 
 | CNN-LSTM (ours) | 0.027 | 0.022 | 1.421    |
 
-## Citation
-
-```
-@inproceedings{...}
-```
-
