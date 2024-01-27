@@ -16,7 +16,6 @@ The model consists of:
 
 The CNN captures cross-channel spatial correlations and the LSTM captures long-term temporal dynamics in the data.
 
-![Model Architecture](architecture.png)
 
 ## Data 
 
